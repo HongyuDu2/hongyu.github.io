@@ -12,7 +12,7 @@ title                    : "Hongyu Du"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://hongyu.github.io/
+url                      : https://hongyudu2.github.io/hongyu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
